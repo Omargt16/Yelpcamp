@@ -13,4 +13,4 @@ CLOUDINARY_SECRET=
 MAPBOX_TOKEN=
 PORT=
 ```
-Also is necesary to add the username into the url that is in helmet.contentSecurityPolicy in the field imgSrc
+Also it is necesary to add the username into the url that is in helmet.contentSecurityPolicy in the field imgSrc
