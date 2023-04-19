@@ -3,7 +3,7 @@ This is an application built to manage campgrounds around the world
 ```npm
 npm init 
 npm start
-nodemos app.js
+nodemon app.js
 ```
 To run this application locally is necessary to add the .env file to the main folder and include the following variables
 ```dotenv
